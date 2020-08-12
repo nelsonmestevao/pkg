@@ -2,7 +2,7 @@ export default function Pkg() {
   return (
     <>
       <Head>
-        <title>pkg.estevao.org</title>
+        <title>pkgs.estevao.org</title>
       </Head>
 
       <main>
