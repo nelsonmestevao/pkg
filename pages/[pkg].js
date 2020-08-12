@@ -6,7 +6,7 @@ export default function Pkg() {
       </Head>
 
       <main>
-        <h1>Welcome to pkg.estevao.org!</h1>
+        <h1>Welcome to pkgs.estevao.org!</h1>
       </main>
     </>
   );
